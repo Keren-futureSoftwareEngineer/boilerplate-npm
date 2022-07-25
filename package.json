@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Keren Liu",
+	"description": "a cool project to help me better understand how npm works",
+	"keywords": ["freecodecamp", "funlearning","womencode"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
